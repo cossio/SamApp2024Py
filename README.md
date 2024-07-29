@@ -4,6 +4,10 @@ Based on https://github.com/jertubiana/PGM.
 
 This repository contains an example Python code to train and sample a Restricted Boltzmann machine on SAM-I riboswitch aptamer domain family of homologous sequences (RF00162 on Rfam). This is provided as an alterative in Python to the original repository https://github.com/cossio/SamApp2024.jl, which is in Julia.
 
+## Setup
+
+To setup the Python environment and dependencies, we recommend using `pixi`. See https://pixi.sh/latest/#installation for details on how to install `pixi` locally.
+
 ## Citation
 
 If you use this code, please cite the references in the original PGM repository (https://github.com/jertubiana/PGM), in addition to:
