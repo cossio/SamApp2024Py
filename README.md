@@ -8,6 +8,8 @@ This repository contains an example Python code to train and sample a Restricted
 
 To setup the Python environment and dependencies, we recommend using `pixi`. See https://pixi.sh/latest/#installation for details on how to install `pixi` locally.
 
+If you want to avoid local setup, these notebooks can also be run using Google Colab.
+
 ## Citation
 
 If you use this code, please cite the references in the original PGM repository (https://github.com/jertubiana/PGM), in addition to:
